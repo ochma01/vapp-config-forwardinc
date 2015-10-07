@@ -226,10 +226,10 @@
 			<DataClassification name="sensitive"/>
 		</ImsManagedObjectAttr>
 		<ImsManagedObjectAttr physicalname="givenName" description="First Name" displayname="First Name" valuetype="String" required="true" wellknown="%FIRST_NAME%" maxlength="0"/>
-		<ImsManagedObjectAttr physicalname="facsimileTelephoneNumber" description="Fax" displayname="Fax" valuetype="String" maxlength="0"/>
+		<ImsManagedObjectAttr physicalname="facsimileTelephoneNumber" description="Fax_OCHINANG" displayname="Fax" valuetype="String" maxlength="0"/>
 		<ImsManagedObjectAttr physicalname="employeeType" description="Employee Type" displayname="Employee Type" valuetype="String" maxlength="0"/>
 		<ImsManagedObjectAttr physicalname="employeeNumber" description="Employee Number" displayname="Employee Number" valuetype="String" maxlength="0"/>
-		<ImsManagedObjectAttr physicalname="departmentNumber" description="Department" displayname="Department" valuetype="String" maxlength="0"/>
+		<ImsManagedObjectAttr physicalname="departmentNumber" description="Department_FORK" displayname="Department" valuetype="String" maxlength="0"/>
 		<ImsManagedObjectAttr physicalname="cn" description="Full Name" displayname="Full Name" valuetype="String" wellknown="%FULL_NAME%" maxlength="0"/>
 	</ImsManagedObject>
 	<PropertyDict name="DIRECTORY_SERVER_STICKINESS">

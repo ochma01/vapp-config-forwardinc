@@ -226,11 +226,7 @@
 			<DataClassification name="sensitive"/>
 		</ImsManagedObjectAttr>
 		<ImsManagedObjectAttr physicalname="givenName" description="First Name" displayname="First Name" valuetype="String" required="true" wellknown="%FIRST_NAME%" maxlength="0"/>
-<<<<<<< HEAD
-		<ImsManagedObjectAttr physicalname="facsimileTelephoneNumber" description="Fax_OCHINANG" displayname="Fax" valuetype="String" maxlength="0"/>
-=======
-		<ImsManagedObjectAttr physicalname="facsimileTelephoneNumber" description="Fax_Marc" displayname="Fax_Marc" valuetype="String" maxlength="0"/>
->>>>>>> 655601935899726a3e6f1294e500e20f76f70e75
+		<ImsManagedObjectAttr physicalname="facsimileTelephoneNumber" description="Fax_Marc_Ochma01" displayname="Fax_Marc_Ochma01" valuetype="String" maxlength="0"/>
 		<ImsManagedObjectAttr physicalname="employeeType" description="Employee Type" displayname="Employee Type" valuetype="String" maxlength="0"/>
 		<ImsManagedObjectAttr physicalname="employeeNumber" description="Employee Number" displayname="Employee Number" valuetype="String" maxlength="0"/>
 		<ImsManagedObjectAttr physicalname="departmentNumber" description="Department_FORK" displayname="Department" valuetype="String" maxlength="0"/>
